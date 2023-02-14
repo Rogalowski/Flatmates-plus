@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an About Flatemates+ page</h1>
+    <h1>This is an Calendar page</h1>
   </div>
 </template>
 
