@@ -1,0 +1,38 @@
+{
+    "users" : [
+    {
+    "id": 1,
+    "name": "Jacek",
+    "surname": "Rogowski",
+    "phone": 123456789
+    },
+    {
+    "id": 2,
+    "name": "John",
+    "surname": "Zappoowski",
+    "phone": 678912345
+    }
+],
+"expenses": [
+    {
+    "user_id": 1,
+    "month": 1,
+    "year":2020,
+    "content": ["List1", "List2", "List3", "List4", "List5"]
+    },
+    {
+    "user_id": 1,
+    "month": 2,
+    "year":2020,
+    "content": ["FebList1", "FebList2", "FebList3", "FebList4"]
+    },
+    {
+    "user_id": 2,
+    "month": 1,
+    "year":2020,
+    "content": ["JanList1", "JanList2", "JanList3", "JanList4"]
+    }
+]
+
+
+}
